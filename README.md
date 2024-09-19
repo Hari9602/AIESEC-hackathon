@@ -67,3 +67,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for checking out our project! We hope you find it as exciting as we do. Happy styling! 🎉
+ 
